@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Leean-S
-- 👀 I’m into all things nerdy and techy! 
-- 💞️ Looking to team up on open source and other cool projects. Let’s build something awesome!
-- 📫 How to reach me: I’ll show up when I feel like it – good things come when you least expect them! 
-- ⚡ Fun fact: I’m a certified nerd. 
+- 👀 I’m into coding and learning.
+- I am working on my 100-day coding challenges
